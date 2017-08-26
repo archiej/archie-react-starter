@@ -11,7 +11,9 @@
   },
   "babel": {
     "presets": [
-      "react", "env", "stage-2"
+      "react",
+      "env",
+      "stage-2"
     ]
   },
   "devDependencies": {
@@ -26,6 +28,9 @@
     "babel-preset-stage-2": "^6.24.1",
     "ejs": "^2.5.7",
     "express": "^4.15.4",
-    "pm2": "^2.6.1"
+    "pm2": "^2.6.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.5.5"
   }
 }
